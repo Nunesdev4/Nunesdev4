@@ -11,7 +11,7 @@ Tenho 18 anos, me considero focado, ágil e produtivo, gosto de desafios e busco
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 1º Semestre! 
 
 * 🌍  Moro em Porto Alegre, Brasil
-* ✉️  You can contact me at [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
+* ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
 * 🧠  Estou aprendendo, JavaScript, HTML e CSS
 * 🤝  Estou disponível para qualquer oportunidade!
 * ⚡  Amo esportes e o meu favorito é musculação
