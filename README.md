@@ -14,7 +14,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 1º Semestre!
 * ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
 * 🧠  Estou aprendendo, JavaScript, HTML e CSS
 * 🤝  Estou disponível para qualquer oportunidade!
-* ⚡  Amo esportes e o meu favorito é musculação
+* 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
 ## Habilidades
 
