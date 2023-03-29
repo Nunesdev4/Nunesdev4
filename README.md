@@ -3,7 +3,7 @@
 Olá Meu Nome é Leonardo 👋
 ==========================
 
-Desenvolvedor Web Front-End 👨‍💻
+Desenvolvedor Front-End 👨‍💻
 -----------------------------
 
 Tenho 18 anos, me considero focado, ágil e produtivo, gosto de desafios e busco aprender novas linguagens e sempre ir além do imaginável.
