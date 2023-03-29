@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Nunesdev4/Nunesdev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Meu Nome é Leonardo 👋
+==========================
 
-Here are some ideas to get you started:
+Desenvolvedor Web Front-End 👨‍💻
+-----------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 18 anos, me considero focado, ágil e produtivo, gosto de desafios e busco aprender novas linguagens e sempre ir além do imaginável.
+
+Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 1º Semestre! 
+
+* 🌍  Moro em Porto Alegre, Brasil
+* ✉️  You can contact me at [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
+* 🧠  Estou aprendendo, JavaScript, HTML e CSS
+* 🤝  Estou disponível para qualquer oportunidade!
+* ⚡  Amo esportes e o meu favorito é musculação
+
+## Habilidades
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="36" height="36" alt="CSS"/></a>
+</p>
+
+## Redes Sociais
+<a href="https://www.linkedin.com/in/leonardo-nunes-899276264/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="40" height="40" alt="linkedin">
+<a href="https://www.instagram.com/leoonuness_/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="40" height="40" alt="Instagram"></a>
