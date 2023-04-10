@@ -6,7 +6,7 @@ Olá Meu Nome é Leonardo 👋
 Desenvolvedor Front-End 
 -----------------------------
 
-Jovem de 18 anos apaixonado por tecnologia. Me considero focado, ágil e produtivo, gosto de desafios e busco aprender novas linguagens e sempre ir além do imaginável.
+Jovem de 19 anos apaixonado por tecnologia. Me considero focado, ágil e produtivo, gosto de desafios e busco aprender novas linguagens e sempre ir além do imaginável.
 
 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 1º Semestre! 
 
