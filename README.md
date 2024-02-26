@@ -3,7 +3,7 @@
 Olá Meu Nome é Leonardo 👋
 ==========================
 
-Desenvolvedor Front-End 
+Desenvolvedor Back end
 -----------------------------
 
 Jovem de 19 anos apaixonado por tecnologia. Me considero focado, ágil e produtivo, gosto de desafios e busco aprender novas linguagens e sempre ir além do imaginável.
@@ -12,7 +12,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 
 * 🌍  Moro em Porto Alegre, Brasil
 * ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
-* 🧠  Estou aprendendo, JavaScript, HTML e CSS
+* 🧠  Estou aprendendo Java
 * 🤝  Estou disponível para qualquer oportunidade!
 * 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
