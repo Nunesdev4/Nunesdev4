@@ -17,6 +17,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 
 ## Habilidades
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
           
           
