@@ -18,7 +18,6 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 
 ## Habilidades
 
-<p align="left">
 
           
           
