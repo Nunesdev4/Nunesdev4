@@ -1,4 +1,3 @@
-![image](https://github.com/Nunesdev4/Nunesdev4/assets/123589752/5bfd7da3-fa30-4a0f-8601-0781c7e893cf)
 
 Olá Meu Nome é Leonardo 👋
 ==========================
