@@ -2,7 +2,7 @@
 Olá Meu Nome é Leonardo 👋
 ==========================
 
-Desenvolvedor Back end
+Desenvolvedor Backend
 -----------------------------
 
 Jovem de 19 anos apaixonado por tecnologia. Me considero focado, ágil e produtivo, gosto de desafios e busco sempre ir além do imaginável.
