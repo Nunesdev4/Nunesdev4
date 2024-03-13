@@ -18,7 +18,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 ## Habilidades
 
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="46" height="46" alt="Java"></a>
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/plain-wordmark" width="46" height="46" alt="MYSQL"> a/>
+<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/plain-wordmark" width="46" height="46" alt="MYSQL"><a/>
           
           
 
