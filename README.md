@@ -11,7 +11,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 
 * 🌍  Moro em Porto Alegre, Brasil
 * ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
-* 🧠  Estou aprendendo Java e MYSQL
+* 🧠  Estou aprendendo Java e MySQL
 * 🤝  Estou disponível para qualquer oportunidade!
 * 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
