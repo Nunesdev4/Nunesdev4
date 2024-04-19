@@ -19,7 +19,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre!
 
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="52" height="52" alt="Java"></a>
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Java"></a>
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Java"></a>
+<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="55" height="55" alt="Java"></a>
 
 
 ## Social
