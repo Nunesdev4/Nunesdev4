@@ -7,7 +7,7 @@ Desenvolvedor Backend
 
 Jovem de 20 anos apaixonado por tecnologia. Me considero focado, ágil, produtivo e organizado. Gosto de desafios e busco sempre ir além do imaginável.
 
-Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 3º Semestre! 
+Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre! 
 
 * 🌍  Moro em Porto Alegre, Brasil
 * ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
