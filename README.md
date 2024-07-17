@@ -1,4 +1,4 @@
-
+de
 Olá Meu Nome é Leonardo 👋
 ==========================
 
@@ -18,9 +18,9 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 ## Habilidades
 
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="52" height="52" alt="Java"></a>
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Java"></a>
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="55" alt="Java"></a>
-
+<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql"></a>
+<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="55" alt="Spring"></a>
+<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="50" height="55" alt="JavaScript"><a/>
 
 ## Social
 <a href="https://www.linkedin.com/in/leonardo-nunes-899276264/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="30" alt="linkedin">
