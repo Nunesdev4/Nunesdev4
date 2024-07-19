@@ -19,7 +19,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="45" alt="SQL"></a>
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql"></a>
-<img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" width="58" height="58" alt="Power BI">
+<img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" width="80" height="80" alt="Power BI">
 
 
 ## Social
