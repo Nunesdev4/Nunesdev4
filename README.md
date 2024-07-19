@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7ee39db0-592f-4357-a479-d89e9f0d5c98)
 Olá Meu Nome é Leonardo 👋
 ==========================
 
