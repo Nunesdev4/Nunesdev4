@@ -10,7 +10,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 * 🌍  Moro em Porto Alegre, Brasil
 * ✉️  Você pode entrar em contato comigo em [leohnunes04@gmail.com](mailto:leohnunes04@gmail.com)
-* 🧠  Competências - Power BI, SQL e MySQL.
+* 🧠  Habilidades - Power BI, SQL e MySQL.
 * 🤝  Estou disponível para qualquer oportunidade!
 * 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
