@@ -16,6 +16,9 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 ## Habilidades
 
+<a href="https://dev.to/envoy_/150-badges-for-github-pnk#analytics" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="90" height="30" alt="SQL" >
+
+
 
 ## Social
 <a href="https://www.linkedin.com/in/leonardo-nunes-899276264/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="30" alt="linkedin">
