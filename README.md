@@ -19,7 +19,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="45" alt="SQL"></a>
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql"></a>
-<img src="https://cetax.com.br/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg" width="100" height="40" alt="Power BI">
+<img src="https://cetax.com.br/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg" width="110" height="40" alt="Power BI">
 
 ## Social
 <a href="https://www.linkedin.com/in/leonardo-nunes-899276264/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="30" alt="linkedin">
