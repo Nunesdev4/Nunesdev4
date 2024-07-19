@@ -16,8 +16,6 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 ## Habilidades
 
-<a href="https://dev.to/envoy_/150-badges-for-github-pnk#analytics"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="90" height="30" alt="SQL">
-
 
 
 ## Social
