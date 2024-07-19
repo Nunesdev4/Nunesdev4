@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c7963311-0d3d-4e21-9caa-b781bb027969)Olá Meu Nome é Leonardo 👋
+Olá Meu Nome é Leonardo 👋
 ==========================
 
 Business Analyst
