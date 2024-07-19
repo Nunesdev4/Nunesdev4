@@ -2,7 +2,6 @@
 ==========================
 
 Business Analyst
-
 -----------------------------
 
 Jovem de 20 anos apaixonado por tecnologia. Me considero focado, ágil, produtivo e organizado. Gosto de desafios e busco sempre ir além do imaginável.
