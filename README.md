@@ -17,8 +17,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 
 ## Habilidades
 
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="45" alt="SQL"></a>
-<a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql">
 <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="55" height="55" alt="Power BI">
 <img src="https://img.icons8.com/?size=100&id=Ign0QG33bZzq&format=png&color=000000" width="55" height="58" alt="SQL">
 ## Social
