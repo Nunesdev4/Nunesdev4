@@ -15,8 +15,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 * 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
 ## Habilidades
-<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img src="https://i.pinimg.com/564x/4d/d4/e1/4dd4e1a08335d9a65222cdcbea13404c.jpg" width="50" height="50" alt="Power BI"></a>
-<a href="https://www.mysql.com"><img src="https://www.canva.com/design/DAGLaPsqYP0/cfacD0LRH3zEyvn3kxpWyA/view" width="58" height="58" alt="Mysql"></a>
+
 
 ## Social
 <a href="https://www.linkedin.com/in/leonardo-nunes-899276264/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="30" alt="linkedin">
