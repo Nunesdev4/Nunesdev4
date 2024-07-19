@@ -15,7 +15,7 @@ Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, 4º Semestre!
 * 🏋️‍♂️  Amo esportes e o meu favorito é musculação
 
 ## Habilidades
-<a href="https://logopundit.com/logos/microsoft-power-bi-logo/"><img src="https://logopundit.com/wp-content/uploads/2024/04/Microsoft-Power-BI-Logo.png" width="55" height="58" alt="Power BI"></a>
+<a href="https://logopundit.com/logos/microsoft-power-bi-logo/"><img src="https://logopundit.com/wp-content/uploads/2024/04/Microsoft-Power-BI-Logo.png" width="50" height="50" alt="Power BI"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="58" height="58" alt="Mysql">
 
 ## Social
